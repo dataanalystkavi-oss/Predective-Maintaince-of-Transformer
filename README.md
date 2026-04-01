@@ -1,2 +1,2 @@
 # Predective-Maintaince-of-Transformer
-i have predicted fault of a transformer using dga analysis by the dga dataset. i have used seversl kinds of model to train and test the data set to give the predicted output
+Industrial Machine Learning pipeline for predicting transformer faults using Dissolved Gas Analysis (DGA). Features data integrity tracking, multi-model classification (Random Forest, SVM, Decision Trees), and a Semi-Supervised Pseudo-Labeling system to automatically expand the training dataset with new predictions.
